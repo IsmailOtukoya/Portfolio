@@ -30,6 +30,8 @@ to model implementation.
 Application for retail shopping
 
 ## Projects
+
+![Fraud Detection System](assets/recommendation_system.png))
 ### Fraud Detection model Using Ensemble method
 [Publication](https://medium.com/@otukoyaismail/a-project-walkthrough-into-a-fraud-detection-model-05ee93c55e30)
 
@@ -43,14 +45,14 @@ XGBoost: An optimized gradient boosting algorithm known for its predictive accur
 
 Neural Network: A deep learning model designed to learn intricate patterns and enhance fraud detection
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![Recommender System](assets/recommendation_system.png)
 
 ### Recommenders System For e-commerce
 
 
 Product Recommendation System is a machine learning-based project that provides personalized product recommendations to users based on their browsing and purchase history. The system utilizes collaborative filtering and content-based filtering algorithms to analyze user behavior and generate relevant recommendations. This project aims to improve the overall shopping experience for users, increase sales for e-commerce businesses
 
-![Bike Study](/assets/img/bike_study.jpeg)
+
 
 
 
