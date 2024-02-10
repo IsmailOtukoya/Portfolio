@@ -47,7 +47,7 @@ XGBoost: An optimized gradient boosting algorithm known for its predictive accur
 
 Neural Network: A deep learning model designed to learn intricate patterns and enhance fraud detection
 
-![Recommender System](/assets/recommendation_system.jpeg)
+![Recommender System](/assets/recommendsys.jpeg)
 
 ### Recommenders System For e-commerce
 
