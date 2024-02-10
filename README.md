@@ -31,7 +31,7 @@ Application for retail shopping
 
 ## Projects
 
-![Fraud Detection System](/assets/Frauddetect.png)
+![Fraud Detection System](/assets/Frauddetect.jpeg)
 
 ### Fraud Detection model Using Ensemble method
 
@@ -47,7 +47,7 @@ XGBoost: An optimized gradient boosting algorithm known for its predictive accur
 
 Neural Network: A deep learning model designed to learn intricate patterns and enhance fraud detection
 
-![Recommender System](/assets/recommendation_system.png)
+![Recommender System](/assets/recommendation_system.jpeg)
 
 ### Recommenders System For e-commerce
 
