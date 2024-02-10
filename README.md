@@ -31,7 +31,7 @@ Application for retail shopping
 
 ## Projects
 
-![Fraud Detection System](assets/recommendation_system.png))
+![Fraud Detection System](assets/recommendation_system.png)
 ### Fraud Detection model Using Ensemble method
 [Publication](https://medium.com/@otukoyaismail/a-project-walkthrough-into-a-fraud-detection-model-05ee93c55e30)
 
