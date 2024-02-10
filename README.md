@@ -31,8 +31,10 @@ Application for retail shopping
 
 ## Projects
 
-![Fraud Detection System](assets/recommendation_system.png)
+![Fraud Detection System](/assets/Frauddetect.png)
+
 ### Fraud Detection model Using Ensemble method
+
 [Publication](https://medium.com/@otukoyaismail/a-project-walkthrough-into-a-fraud-detection-model-05ee93c55e30)
 
 This project implements a fraud detection model to identify and address fraudulent activities in financial transactions. The model employs a combination of traditional machine learning algorithms and deep learning techniques, forming an ensemble to harness the strengths of individual models.
@@ -45,7 +47,7 @@ XGBoost: An optimized gradient boosting algorithm known for its predictive accur
 
 Neural Network: A deep learning model designed to learn intricate patterns and enhance fraud detection
 
-![Recommender System](assets/recommendation_system.png)
+![Recommender System](/assets/recommendation_system.png)
 
 ### Recommenders System For e-commerce
 
